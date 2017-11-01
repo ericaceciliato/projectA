@@ -58,6 +58,7 @@ width: 100%;
 	color: white;
 	font-size: 15px;
 	width: 50%;
+	text-shadow: -0.5px 0 yellow, 0 0.5px yellow, 0.5px 0 yellow, 0 -0.5px yellow;
 
 
  }
